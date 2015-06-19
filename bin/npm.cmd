@@ -1,2 +1,2 @@
 :: Created by npm, please don't edit manually.
-node npm-cli.js
+node  "%~dp0\npm-cli.js" %*
